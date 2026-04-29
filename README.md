@@ -22,21 +22,4 @@ Bienvenido a mi espacio digital. Hay 10 tipos de personas en el mundo: los que e
   </a>
 </p>
 
-## 👤 ¿Quién soy?
-```python
-class Milu301:
-    def __init__(self):
-        self.name = 'Juan Carlos'
-        self.role = 'Developer & Founder'
-        self.project = 'AuroraHud'
-        self.superpowers = [
-            'AI-Assisted Programming',
-            'Community Building',
-            'Portfolio Crafting'
-        ]
 
-    def get_location(self):
-        return "Colombia"
-
-    def current_mission(self):
-        return "Building awesome tools and debugging at 3 AM."
