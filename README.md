@@ -27,8 +27,6 @@ Bienvenido a mi espacio digital. Hay 10 tipos de personas en el mundo: los que e
 class Milu301:
     def __init__(self):
         self.name = 'Juan Carlos'
-        self.role = 'Developer & Founder'
-        self.project = 'AuroraHud'
         self.superpowers = [
             'AI-Assisted Programming',
             'Community Building',
